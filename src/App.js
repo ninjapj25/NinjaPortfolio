@@ -12,7 +12,7 @@ function App() {
       <Grid container={true}>
         <SideNavigation />
         <Switch>
-          <Route exact path="/" component={Home} />
+          <Route exact path="/NinjaPortfolio" component={Home} />
           <Route path="/about" component={About} />
           <Route path="/works" component={Works} />
         </Switch>
