@@ -27,7 +27,7 @@ export default function SideNavigation() {
         justifyContent="space-around"
       >
         <Box display="flex" alignContent="center" justifyContent="center">
-          <Link to="/">HOME</Link>
+          <Link to="/home">HOME</Link>
         </Box>
         <Box display="flex" alignContent="center" justifyContent="center">
           <Link to="/about">ABOUT</Link>
