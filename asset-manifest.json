@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/NinjaPortfolio/static/css/main.46971437.chunk.css",
+    "main.js": "/NinjaPortfolio/static/js/main.6a854184.chunk.js",
+    "main.js.map": "/NinjaPortfolio/static/js/main.6a854184.chunk.js.map",
+    "runtime-main.js": "/NinjaPortfolio/static/js/runtime-main.7e4f4ef7.js",
+    "runtime-main.js.map": "/NinjaPortfolio/static/js/runtime-main.7e4f4ef7.js.map",
+    "static/js/2.259ae23e.chunk.js": "/NinjaPortfolio/static/js/2.259ae23e.chunk.js",
+    "static/js/2.259ae23e.chunk.js.map": "/NinjaPortfolio/static/js/2.259ae23e.chunk.js.map",
+    "index.html": "/NinjaPortfolio/index.html",
+    "static/css/main.46971437.chunk.css.map": "/NinjaPortfolio/static/css/main.46971437.chunk.css.map",
+    "static/js/2.259ae23e.chunk.js.LICENSE.txt": "/NinjaPortfolio/static/js/2.259ae23e.chunk.js.LICENSE.txt",
+    "static/media/Logo.b7b66018.svg": "/NinjaPortfolio/static/media/Logo.b7b66018.svg",
+    "static/media/Recipe.cab817cb.PNG": "/NinjaPortfolio/static/media/Recipe.cab817cb.PNG",
+    "static/media/Todo.f662737c.PNG": "/NinjaPortfolio/static/media/Todo.f662737c.PNG",
+    "static/media/Typing.1b2779e7.PNG": "/NinjaPortfolio/static/media/Typing.1b2779e7.PNG",
+    "static/media/Weather.64d226f4.PNG": "/NinjaPortfolio/static/media/Weather.64d226f4.PNG",
+    "static/media/profile.0797e6a1.svg": "/NinjaPortfolio/static/media/profile.0797e6a1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e4f4ef7.js",
+    "static/js/2.259ae23e.chunk.js",
+    "static/css/main.46971437.chunk.css",
+    "static/js/main.6a854184.chunk.js"
+  ]
+}
