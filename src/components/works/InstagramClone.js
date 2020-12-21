@@ -1,5 +1,5 @@
 import React from "react";
-import TodoImage from "../image/Todo.PNG";
+import Insta from "../image/insta.PNG";
 import {
   Typography,
   Card,
@@ -10,7 +10,7 @@ import {
 } from "@material-ui/core";
 import { Spring } from "react-spring/renderprops";
 
-export default function Todo() {
+export default function InstagramClone() {
   return (
     <Spring
       from={{
@@ -29,20 +29,25 @@ export default function Todo() {
       {(props) => (
         <Card style={props}>
           <CardActionArea>
-            <img width="100%" src={TodoImage} alt="Todo Website" />
+            <img
+              width="100%"
+              height="50%"
+              src={Insta}
+              alt="Instagram Clone Website"
+            />
             <CardContent>
               <Typography gutterBottom variant="h5" component="h4">
-                Todo
+                Instagram
               </Typography>
               <Typography variant="body2" color="textSecondary" component="p">
-                Personal project for CRUD in React.
+                A MERN project
               </Typography>
             </CardContent>
           </CardActionArea>
           <CardActions>
             <Button
               size="small"
-              href="https://ninjapj25.github.io/TodoReactApp/"
+              href="https://ninjainstaclone.herokuapp.com/"
               target="_blank"
               color="primary"
               className="card-btn"

@@ -3,7 +3,7 @@ import { Box } from "@material-ui/core";
 import React from "react";
 import WorksHeader from "./WorksHeader";
 import Recipe from "./Recipe";
-import Todo from "./Todo";
+import InstagramClone from "./InstagramClone";
 import Typing from "./Typing";
 import Weather from "./Weather";
 
@@ -41,7 +41,7 @@ export default function Works() {
           height="45%"
           className="work-cards"
         >
-          <Todo />
+          <InstagramClone />
         </Box>
 
         <Box
